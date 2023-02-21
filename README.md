@@ -6,3 +6,5 @@ Test version of the site after layout
 Transitions
 
 ![Screenshot_6](https://user-images.githubusercontent.com/124584927/220344425-4a432d44-2956-4a96-9d32-8f39b04d694b.png)
+
+Technologies HTML, CSS
