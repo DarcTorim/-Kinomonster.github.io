@@ -1,4 +1,4 @@
-#  https://darctorim.github.io/-Kinomonster.github.io/ .
+#  https://darctorim.github.io/-Kinomonster.github.io/ 
 <h1>Test version of the site after layout</h1>
 <p>Site with a mobile version</p>
 
