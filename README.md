@@ -1,6 +1,6 @@
 # <div align="center"> https://darctorim.github.io/-Kinomonster.github.io/ </div>
 <h1 align="center">Test version of the site after layout</h1>
-<p align="center">Site with a mobile version</p>
+<h3 align="center">Site with a mobile version</h3>
 
 ![Screenshot_5](https://user-images.githubusercontent.com/124584927/220344415-1466a4ba-0cd5-4d08-b005-7fba94093ec1.png)
 
